@@ -1,3 +1,5 @@
+///<reference path="../models/project.ts" />
+
 namespace App {
   //Project state management
 
